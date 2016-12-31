@@ -12,11 +12,10 @@ $ ruby pdfRico.rb -p <RELATÓRIO>
 Exemplo:  
 $ ruby pdfRico -p rico.pdf  
 Nome: JACKSON LOPES  
-Agencia: XXXX    
+Agencia: XXXX  
 Conta: XXX  
 Período de: 01/01/2016  
 Período até: 31/12/2016  
----  
 Valor depositado: XXX  
 
 E irá gerar o relatório 'REL_RICO_per__01012016-31122016__31122016.xlsx'
