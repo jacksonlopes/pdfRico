@@ -20,6 +20,6 @@ Valor depositado: XXX
 
 E irá gerar o relatório 'REL_RICO_per__01012016-31122016__31122016.xlsx'
 
-![Sheet1:](https://jacksonlopes.github.io/images/projetos/pdfRico/01.png) 
+![Sheet1:](https://i.pstorage.space/i/Pw2a9QkV7/original_01.png) 
 
-![Sheet2:](https://jacksonlopes.github.io/images/projetos/pdfRico/01.png) 
+![Sheet2:](https://i.pstorage.space/i/LDRW03klo/original_02.png) 
