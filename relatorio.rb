@@ -1,8 +1,9 @@
 libdir = File.dirname(__FILE__)
 $LOAD_PATH.unshift(libdir) unless $LOAD_PATH.include?(libdir)
 # = Classe pai dos Relatórios.
-# Autor: Jackson Lopes <jacksonlopes@gmail.com>
-# Site:  https://jacksonlopes.github.io
+# Author: Jackson Lopes <jacksonlopes@gmail.com>
+# URL: https://jslabs.cc
+# src: https://github.com/jacksonlopes/pdfRico
 require "relatorioXLS"
 require "utilRico"
 
